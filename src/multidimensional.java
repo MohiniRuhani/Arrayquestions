@@ -25,10 +25,11 @@ public class multidimensional {
         {
             for(int j=0;j<m;j++)
             {
-               System.out.print( a[i][j]);
+               System.out.print( a[i][j]+ " ");
             }
-
+            System.out.println();
         }
+
     }
 
 
